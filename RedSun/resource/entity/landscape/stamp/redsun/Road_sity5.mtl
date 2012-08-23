@@ -1,0 +1,7 @@
+{material simple
+	{diffuse "Road_sity5"
+		{Axis 64 256}
+		{AlphaChannel 1}
+	}
+	{Blend blend}
+}

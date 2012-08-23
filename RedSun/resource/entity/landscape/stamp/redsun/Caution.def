@@ -1,0 +1,9 @@
+{entity 
+	{DecalView 
+		{Sprite "Caution.mtl" 
+		}
+		{orientation normal}
+		{layer grounddecal }
+		{UseDirection }
+	}
+}

@@ -1,0 +1,9 @@
+{entity 
+	{DecalView 
+		{Sprite "line_cut.mtl" 
+		}
+		{orientation normal}
+		{layer grounddecal }
+		{UseDirection }
+	}
+}

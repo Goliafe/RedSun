@@ -1,0 +1,9 @@
+{entity 
+	{DecalView 
+		{Sprite "Root_2.mtl" 
+		}
+		{orientation normal}
+		{layer grounddecal }
+		{UseDirection }
+	}
+}

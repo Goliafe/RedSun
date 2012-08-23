@@ -1,0 +1,9 @@
+{entity 
+	{DecalView 
+		{Sprite "Road_crack_8.mtl" 
+		}
+		{orientation normal}
+		{layer grounddecal }
+		{UseDirection }
+	}
+}

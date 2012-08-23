@@ -1,0 +1,7 @@
+{material simple
+	{diffuse "Triang_line_Cut"
+		{Axis 64 256}
+		{AlphaChannel 1}
+	}
+	{Blend blend}
+}

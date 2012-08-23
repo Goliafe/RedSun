@@ -1,0 +1,9 @@
+{entity 
+	{DecalView 
+		{Sprite "Road_sity6.mtl" 
+		}
+		{orientation normal}
+		{layer grounddecal }
+		{UseDirection }
+	}
+}

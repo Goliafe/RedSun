@@ -1,0 +1,9 @@
+{entity 
+	{DecalView 
+		{Sprite "Cracks.mtl" 
+		}
+		{orientation normal}
+		{layer grounddecal }
+		{UseDirection }
+	}
+}

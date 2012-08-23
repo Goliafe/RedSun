@@ -1,0 +1,7 @@
+{material simple
+	{diffuse "Caution"
+		{Axis 64 256}
+		{AlphaChannel 1}
+	}
+	{Blend blend}
+}

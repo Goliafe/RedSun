@@ -1,0 +1,9 @@
+{entity 
+	{DecalView 
+		{Sprite "Triang_line_Cut.mtl" 
+		}
+		{orientation normal}
+		{layer grounddecal }
+		{UseDirection }
+	}
+}
